@@ -5,3 +5,4 @@ for i in word:
 
 
 print("HELP LAH!!!") 
+print("Where am I?") 
